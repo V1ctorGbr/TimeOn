@@ -1,6 +1,6 @@
 # TimeOn – Sistema de Agendamento
 
-Projeto  está desenvolvimento usando Java com Spring Boot, com foco em API REST e boas práticas de arquitetura em camadas.  
+Projeto  está em desenvolvimento usando Java com Spring Boot, com foco em API REST e boas práticas de arquitetura em camadas.  
 O sistema permite gerenciar agendamentos de forma simples e eficiente, servindo como base para aprendizado e evolução em desenvolvimento backend.
 
 ## Tecnologias
